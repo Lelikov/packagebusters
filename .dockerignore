@@ -1,0 +1,13 @@
+# Ignore everything
+**
+
+# Except for dependencies and source
+!/packagebusters/**
+!/templates/**
+!/pyproject.toml
+!/poetry.lock
+
+!/.venv/**
+!/frontend/**
+**/node_modules
+**/build
